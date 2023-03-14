@@ -9,7 +9,7 @@ const PropertyList = () => {
           className="propertyImg"
         />
         <div className="propertyTitle">
-            <h1>Hotel</h1>
+            <h1>Hotels</h1>
             <h2> 244 hotel</h2>
         </div>
         </div>

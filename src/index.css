@@ -14,7 +14,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
 }
 
 .logo {
@@ -26,7 +25,7 @@
   border: none;
   padding: 5px 10px;
   cursor: pointer;
- 
+
   color: #003580;
 }
 
@@ -38,7 +37,6 @@
   justify-content: center;
   position: relative;
   height: 320px;
-  
 }
 
 .headerContainer {
@@ -57,7 +55,6 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  
 }
 
 .headerListItem.active {
@@ -79,7 +76,6 @@
   cursor: pointer;
   height: 40px;
   width: 140px;
-
 }
 .headerBtns {
   background-color: #0071c2;
@@ -90,7 +86,6 @@
   cursor: pointer;
   height: 40px;
   width: 80px;
-
 }
 
 .headerSearch {
@@ -237,8 +232,7 @@
 }
 .propertyTitle > h2 {
   font-size: 13px;
-  margin: 3px;
- 
+  margin: 1px;
   font-weight: 300;
   color: darkgrey;
 }
@@ -328,28 +322,23 @@
   border-radius: 6px;
 }
 /*Footer*/
-.footerItems{
-  justify-content:space-between;
-  display:flex;
+.footerItems {
+  justify-content: space-between;
+  display: flex;
   max-width: 1600px;
   margin-left: 100px;
-
-
 }
-.row{
+.row {
   border: none;
   padding: 5px 10px;
   cursor: pointer;
   color: #0071c2;
   margin-right: 100px;
   font-size: 13px;
-  
- 
 }
 /*Font*/
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sora+Sompeng&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Sora+Sompeng&display=swap");
 body {
   margin: 0;
-  font-family: 'Noto Sans Sora Sompeng', sans-serif;
-
+  font-family: "Noto Sans Sora Sompeng", sans-serif;
 }

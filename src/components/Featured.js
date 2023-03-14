@@ -19,7 +19,7 @@ const Featured = () => {
           className="featuredImg"
         />
         <div className="featuredTitle">
-            <h1>China</h1>
+            <h1>Beijing</h1>
             <h2> 2,000 propertiaes</h2>
         </div>
         </div>
@@ -29,7 +29,7 @@ const Featured = () => {
           className="featuredImg"
         />
         <div className="featuredTitle">
-            <h1>Malasia</h1>
+            <h1>Kualalumpur</h1>
             <h2> 2,000 propertiaes</h2>
         </div>
         </div>
